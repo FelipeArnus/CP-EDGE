@@ -8,7 +8,6 @@ Este é um projeto Arduino que utiliza sensores de temperatura, umidade e luz pa
 - João Pedro Vieira – RM: 99805
 - João Pedro Chambrone – RM: 97857
 - Vitor Hugo – RM: 97758
-- Lucas Vinicius de Brigada
 
 ## Descrição do Projeto:
 
@@ -43,3 +42,7 @@ O código monitora os sensores continuamente e realiza as seguintes operações,
 - Senha da rede Wi-Fi: (em branco)
 - Servidor MQTT: "broker.hivemq.com"
 - Porta MQTT: 1883
+
+## Simulação:
+- https://wokwi.com/projects/378689163018348545
+
